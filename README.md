@@ -35,14 +35,14 @@ Intern at the Fire Service Station at Kumasi Metropolitan
 
 ### Certifications
 AWS Academy Graduate
-- AWS Academy Machine Learning Foundations
-  ![Screenshot 2024-02-02 001657](https://github.com/ewill5/portfolio/assets/119075299/e3b0a1d4-3daa-4dae-902b-28d9d6d67bab)
+AWS Academy Machine Learning Foundations<br>
+![Screenshot 2024-02-02 001657](https://github.com/ewill5/portfolio/assets/119075299/e3b0a1d4-3daa-4dae-902b-28d9d6d67bab)
 
 
 AWS Academy Graduate
-- AWS Academy Introduction to Cloud Semester 1
-  ![Screenshot 2024-02-02 001740](https://github.com/ewill5/portfolio/assets/119075299/48e4c2be-eecf-4f5a-bcb4-e7221f0dd5f7)
+AWS Academy Introduction to Cloud Semester 1<br>
+![Screenshot 2024-02-02 001740](https://github.com/ewill5/portfolio/assets/119075299/48e4c2be-eecf-4f5a-bcb4-e7221f0dd5f7)
 
 
-Advanced Diploma in Python programming for novice to expert certification
+Advanced Diploma in Python programming for novice to expert certification<br>
 ![2bf3c62b9e7bbd4e929a90bf66bf6d2d](https://github.com/ewill5/portfolio/assets/119075299/92a244bd-e8db-470d-9ffe-22abd84d7ff1)
