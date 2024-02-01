@@ -30,7 +30,7 @@ Intern at the Fire Service Station at Kumasi Metropolitan
 [Android Security]() 
 - Using burp suite to intercept traffic on mobile and recording the traffic with tcpdump
 
-[Machine Learning]() 
+[Machine Learning](https://ewill5.github.io/Fingerprint-comparison/) 
 - Using OpenCV with python programming to identify fingerprints.
 
 ### Certifications
