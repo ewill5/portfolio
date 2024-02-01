@@ -34,11 +34,10 @@ Intern at the Fire Service Station at Kumasi Metropolitan
 - Using OpenCV with python programming to identify fingerprints.
 
 ### Certifications
-[AWS Academy Graduate]() 
+[AWS Academy Graduate](![image](https://github.com/ewill5/portfolio/assets/119075299/743dc19a-4991-42bb-b082-fd8c9e8cfa3f)
 - AWS Academy Machine Learning Foundations
 
-[AWS Academy Graduate]()
+[AWS Academy Graduate](![image](https://github.com/ewill5/portfolio/assets/119075299/9c9e0c9a-4390-4e1d-b3aa-7661aa9dd2d5)
 - AWS Academy Introduction to Cloud Semester 1
 
-[Advanced Diploma in Python programming for novice to expert certification]()
-
+[Advanced Diploma in Python programming for novice to expert certification](![2bf3c62b9e7bbd4e929a90bf66bf6d2d](https://github.com/ewill5/portfolio/assets/119075299/bc7a9718-1f05-49e9-8cdb-9209a59c5375)
