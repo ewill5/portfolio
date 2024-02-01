@@ -27,10 +27,10 @@ Intern at the Fire Service Station at Kumasi Metropolitan
 [Web Application Penetration Testing and Assessment]()
 - Identifying vulnerabilities and manually testing them out
 
-Android Security 
+[Android Security]() 
 - Using burp suite to intercept traffic on mobile and recording the traffic with tcpdump
 
-Machine Learning 
+[Machine Learning]() 
 - Using OpenCV with python programming to identify fingerprints.
 
 ### Certifications
