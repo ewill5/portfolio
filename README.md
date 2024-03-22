@@ -9,6 +9,10 @@ Forensic Science, Bachelors
 
 Intern at the Fire Service Station at Kumasi Metropolitan
 
+Intern at Cyber Defense Center, Gandhinagar, India
+
+Intern at Digital Forensic Laboratory, Gandhinagar, India
+
 ### Projects
 [Reverse Engineering and Malware Analysis]() 
 - Wanacry malware
