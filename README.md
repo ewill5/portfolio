@@ -1,8 +1,8 @@
 # Cyber Security
 
 ### Education
-Cyber Security, Masters
-Forensic Science, Bachelors
+- Masters in Cyber Security
+- Bachelor of Science in Forensic Science
 
 ### Work Experience
 [Teaching and Research Assistant at the University of Cape Coast, Forensic Science Department]()
