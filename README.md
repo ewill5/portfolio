@@ -1,4 +1,5 @@
-# Cyber Security
+# CYBER SECURITY PORTFOLIO
+By Emmanuel William Frimpong
 
 ### Education
 - Masters in Cyber Security
