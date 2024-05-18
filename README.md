@@ -5,10 +5,10 @@
 - Bachelor of Science in Forensic Science
 
 ### Work Experience
-- Teaching and Research Assistant at the University of Cape Coast, Forensic Science Department
-- Intern at the Fire Service Station, Kumasi Metropolitan
 - Intern at Cyber Defense Center, Gandhinagar, India
 - Intern at Digital Forensic Laboratory, Gandhinagar, India
+- Teaching and Research Assistant at the University of Cape Coast, Forensic Science Department
+- Intern at the Fire Service Station, Kumasi Metropolitan
 
 ### Projects
 - [Reverse Engineering and Malware Analysis](https://github.com/ewill5/portfolio/files/15244053/reverse_engineering.pdf)
