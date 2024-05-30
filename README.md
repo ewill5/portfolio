@@ -18,7 +18,7 @@
   - Developed a water quality monitoring tool and conducted penetration testing.
 
 - [Social Network Analysis](https://ewill5.github.io/social_network_project/)
-  - Analyzed social network data using Python.
+  - Analyzed social network data.
 
 - [Exploit Programming](https://github.com/ewill5/portfolio/files/15244061/SOCKET.PROGRAMMING.pdf)
   - Developed server and client sockets for exploit testing.
